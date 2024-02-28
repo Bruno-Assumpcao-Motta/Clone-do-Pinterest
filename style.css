@@ -1,3 +1,5 @@
+
+
 body{
     box-sizing: border-box;
     background-color: black;
@@ -22,9 +24,14 @@ nav{
 }
 main{
     padding: 12px;
+    columns: 2;
 }
 
 img{
     width: 100%;
     border-radius: 15px;
+    margin-bottom: 20px;
+}
+ion icon{
+    color: white;
 }
